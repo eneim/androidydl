@@ -1,1 +1,1 @@
-yt-dlp $1
+yt-dlp --config-location "~/.config/youtube-dl" $1
