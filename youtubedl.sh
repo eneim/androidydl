@@ -51,7 +51,7 @@ echo -e $Y $L"Installing wget..." $N
 
 echo -e $Y $L"Installing YouTube-dl..." $N 
 
-		pip install youtube-dl
+		pip install -U yt-dlp
 		clear
 
 echo -e $Y $L"Setting up configs..." $N
